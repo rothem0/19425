@@ -1,0 +1,6 @@
+{
+  "name": "1942 은빛 비행대 - 시니어 인지케어 게임",
+  "description": "치매 어르신과 시니어를 위한 편안하고 즐거운 1942 레트로 비행 슈팅 & 두뇌 인지 활성화 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
